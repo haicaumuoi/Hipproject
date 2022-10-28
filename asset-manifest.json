@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Hipproject/static/css/main.65bc41ae.css",
+    "main.js": "/Hipproject/static/js/main.bb223fa8.js",
+    "static/js/787.a462b31c.chunk.js": "/Hipproject/static/js/787.a462b31c.chunk.js",
+    "static/media/notification.png": "/Hipproject/static/media/notification.6babc15ab5af04916b70.png",
+    "static/media/logo.png": "/Hipproject/static/media/logo.abb757c35f59046bdf01.png",
+    "static/media/google.svg": "/Hipproject/static/media/google.66ae25beb1eb0655ac594978ee31ddb2.svg",
+    "index.html": "/Hipproject/index.html",
+    "main.65bc41ae.css.map": "/Hipproject/static/css/main.65bc41ae.css.map",
+    "main.bb223fa8.js.map": "/Hipproject/static/js/main.bb223fa8.js.map",
+    "787.a462b31c.chunk.js.map": "/Hipproject/static/js/787.a462b31c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65bc41ae.css",
+    "static/js/main.bb223fa8.js"
+  ]
+}
