@@ -16,17 +16,14 @@ function Main() {
 
   return (
     <Routes location={location} key={location.pathname}>
-      <Route path="/Hipproject" element={<Main />}></Route>
-      <Route path="/Hipproject/login" element={<Login />}></Route>
-      <Route path="/Hipproject/projects" element={<Projects />}></Route>
-      <Route path="/Hipproject/findProject" element={<FindProjects />}></Route>
-      <Route
-        path="/Hipproject/findProject/:id"
-        element={<ProjectDetails />}
-      ></Route>
-      <Route path="/Hipproject/postjob" element={<Postjob />}></Route>
-      <Route path="/Hipproject/profile" element={<Profile />}></Route>
-      <Route path="/Hipproject/notification" element={<Notification />}></Route>
+      <Route path="/" element={<Main />}></Route>
+      <Route path="/login" element={<Login />}></Route>
+      <Route path="/projects" element={<Projects />}></Route>
+      <Route path="/findProject" element={<FindProjects />}></Route>
+      <Route path="/findProject/:id" element={<ProjectDetails />}></Route>
+      <Route path="/postjob" element={<Postjob />}></Route>
+      <Route path="/profile" element={<Profile />}></Route>
+      <Route path="/notification" element={<Notification />}></Route>
     </Routes>
   );
 }
